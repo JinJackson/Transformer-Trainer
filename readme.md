@@ -1,4 +1,6 @@
-# Simple Instruction for 'Trainer' in Transformers
+
+
+# This demo shows how to use the Trainer module of HuggingFaces's Transformers
 
 ### dataset: IMDB
 
